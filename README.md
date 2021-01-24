@@ -4,6 +4,7 @@ Install GCC_9.3.0 on Ubuntu_20.04(LTS) without Internet
 1. Install make from liveCD
 2. Download all the nessasary deb files from internet and copy them to a flash disk
 3. Insert the flash disk to Ubuntu_20.04 machine, locate the folder contains deb files in terminal and then type the following commands:
+
     sudo apt-get install ./manpages-dev_5.05-1_all.deb
     
     sudo apt-get install ./libcrypt-dev_4.4.10-10ubuntu4_amd64.deb
